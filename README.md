@@ -28,3 +28,7 @@ Additionally, it support OTA updates via WiFi which is pretty handy when the thi
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8HkiVJLH2uw/0.jpg)](http://www.youtube.com/watch?v=8HkiVJLH2uw)
 
 (Click on the picture to watch the video on Youtube)
+
+## Schema
+
+![Schema](doc/Schematics_bb.jpg)
