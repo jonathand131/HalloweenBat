@@ -1,8 +1,9 @@
-# HaloweenBat
+HaloweenBat
+===========
 
 This is a small DIY project to create a IoT Haloween bat.
 
-## Project description
+## Overview
 
 The thing integrates LEDs, a NodeMCU and a 9V battery in a cardboard tube.
 It uses Blynk (http://www.blynk.cc/) to receive commands from a smartphone.
@@ -25,4 +26,5 @@ Additionally, it support OTA updates via WiFi which is pretty handy when the thi
 ## Demo
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8HkiVJLH2uw/0.jpg)](http://www.youtube.com/watch?v=8HkiVJLH2uw)
+
 (Click on the picture to watch the video on Youtube)
