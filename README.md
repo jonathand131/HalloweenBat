@@ -1,14 +1,14 @@
-HaloweenBat
+HalloweenBat
 ===========
 
-This is a small DIY project to create a IoT Haloween bat.
+This is a small DIY project to create a IoT Halloween bat.
 
 ## Overview
 
 The thing integrates LEDs, a NodeMCU and a 9V battery in a cardboard tube.
 It uses Blynk (http://www.blynk.cc/) to receive commands from a smartphone.
 
-The Haloween bat has different operating modes:
+The Halloween bat has different operating modes:
  * Off
  * Fuzzy: random changes of brightness level
  * Manual: lighting sets using the brightness level manually configured
